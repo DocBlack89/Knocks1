@@ -4,13 +4,19 @@
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="App1" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="Five Knocks" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="App1" android:name="md5579855c995bdb073d8182511e793544c.Game_Over" />
+    <activity android:label="KnocksActivity" android:name="md5579855c995bdb073d8182511e793544c.KnocksActivity" />
+    <activity android:label="NoteActivity" android:name="md5579855c995bdb073d8182511e793544c.NoteActivity" />
+    <activity android:label="Activity1" android:name="md5579855c995bdb073d8182511e793544c.Main1" />
+    <activity android:label="Activity1" android:name="md5579855c995bdb073d8182511e793544c.ChoixActivity" />
     <activity android:icon="@drawable/icon" android:label="App1" android:name="md5579855c995bdb073d8182511e793544c.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="MenuActivity" android:name="md5579855c995bdb073d8182511e793544c.MenuActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="App1.App1.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

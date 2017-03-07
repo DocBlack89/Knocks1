@@ -51,7 +51,10 @@ namespace App1
 			public const int icon = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int PorteJeu = 2130837506;
+			public const int note = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int PorteJeu = 2130837507;
 			
 			static Drawable()
 			{

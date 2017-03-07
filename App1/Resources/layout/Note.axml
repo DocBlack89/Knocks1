@@ -6,16 +6,11 @@
     android:layout_height="match_parent"
     tools:actionBarNavMode="tabs"
     android:minWidth="25px"
-    android:minHeight="25px">
+    android:minHeight="25px"
+    android:background="@drawable/note">
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
-  <Button
-    android:text="Texte de la note"
-    android:layout_height="match_parent"
-    android:layout_width="match_parent"
-    android:id="@+id/button1"
-    android:visibility="visible"
-    tools:visibility="visible" />
 </LinearLayout>

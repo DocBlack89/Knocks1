@@ -1,0 +1,28 @@
+App1.Game_Over, App1;md5579855c995bdb073d8182511e793544c.Game_Over
+App1.Game_Over, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.Game_Over
+App1.Game_Over;md5579855c995bdb073d8182511e793544c.Game_Over
+app1.Game_Over;md5579855c995bdb073d8182511e793544c.Game_Over
+App1.KnocksActivity, App1;md5579855c995bdb073d8182511e793544c.KnocksActivity
+App1.KnocksActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.KnocksActivity
+App1.KnocksActivity;md5579855c995bdb073d8182511e793544c.KnocksActivity
+app1.KnocksActivity;md5579855c995bdb073d8182511e793544c.KnocksActivity
+App1.NoteActivity, App1;md5579855c995bdb073d8182511e793544c.NoteActivity
+App1.NoteActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.NoteActivity
+App1.NoteActivity;md5579855c995bdb073d8182511e793544c.NoteActivity
+app1.NoteActivity;md5579855c995bdb073d8182511e793544c.NoteActivity
+App1.Main1, App1;md5579855c995bdb073d8182511e793544c.Main1
+App1.Main1, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.Main1
+App1.Main1;md5579855c995bdb073d8182511e793544c.Main1
+app1.Main1;md5579855c995bdb073d8182511e793544c.Main1
+App1.ChoixActivity, App1;md5579855c995bdb073d8182511e793544c.ChoixActivity
+App1.ChoixActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.ChoixActivity
+App1.ChoixActivity;md5579855c995bdb073d8182511e793544c.ChoixActivity
+app1.ChoixActivity;md5579855c995bdb073d8182511e793544c.ChoixActivity
+App1.MainActivity, App1;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+app1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MenuActivity, App1;md5579855c995bdb073d8182511e793544c.MenuActivity
+App1.MenuActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MenuActivity
+App1.MenuActivity;md5579855c995bdb073d8182511e793544c.MenuActivity
+app1.MenuActivity;md5579855c995bdb073d8182511e793544c.MenuActivity

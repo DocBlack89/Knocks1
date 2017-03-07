@@ -1,0 +1,9 @@
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\App1.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\Java.Interop.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\Mono.Android.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\mscorlib.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\System.Core.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\System.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\System.Xml.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\System.Runtime.Serialization.dll
+d:\Users\antoi\OneDrive\documents\visual studio 2015\Projects\App1\App1\obj\Release\android\assets\System.ServiceModel.Internals.dll

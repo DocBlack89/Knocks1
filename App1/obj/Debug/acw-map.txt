@@ -6,6 +6,22 @@ App1.KnocksActivity, App1;md5579855c995bdb073d8182511e793544c.KnocksActivity
 App1.KnocksActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.KnocksActivity
 App1.KnocksActivity;md5579855c995bdb073d8182511e793544c.KnocksActivity
 app1.KnocksActivity;md5579855c995bdb073d8182511e793544c.KnocksActivity
+App1.Main3, App1;md5579855c995bdb073d8182511e793544c.Main3
+App1.Main3, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.Main3
+App1.Main3;md5579855c995bdb073d8182511e793544c.Main3
+app1.Main3;md5579855c995bdb073d8182511e793544c.Main3
+App1.Note2, App1;md5579855c995bdb073d8182511e793544c.Note2
+App1.Note2, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.Note2
+App1.Note2;md5579855c995bdb073d8182511e793544c.Note2
+app1.Note2;md5579855c995bdb073d8182511e793544c.Note2
+App1.Note1, App1;md5579855c995bdb073d8182511e793544c.Note1
+App1.Note1, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.Note1
+App1.Note1;md5579855c995bdb073d8182511e793544c.Note1
+app1.Note1;md5579855c995bdb073d8182511e793544c.Note1
+App1.NoteActivity2, App1;md5579855c995bdb073d8182511e793544c.NoteActivity2
+App1.NoteActivity2, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.NoteActivity2
+App1.NoteActivity2;md5579855c995bdb073d8182511e793544c.NoteActivity2
+app1.NoteActivity2;md5579855c995bdb073d8182511e793544c.NoteActivity2
 App1.NoteActivity, App1;md5579855c995bdb073d8182511e793544c.NoteActivity
 App1.NoteActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.NoteActivity
 App1.NoteActivity;md5579855c995bdb073d8182511e793544c.NoteActivity

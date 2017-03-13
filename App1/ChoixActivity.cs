@@ -44,7 +44,7 @@ namespace App1
             _player.Start();
             _player1.Stop();
             _player2.Start();
-            var intent = new Intent(this, typeof(KnocksActivity));
+            var intent = new Intent(this, typeof(NoteActivity2));
             StartActivity(intent);
                 }
         private void PlayButton2_Click(object sender, System.EventArgs e)
@@ -59,7 +59,7 @@ namespace App1
             _player1.Stop();
             _player.Start();
             _player3.Start();
-            var intent = new Intent(this, typeof(NoteActivity));
+            var intent = new Intent(this, typeof(KnocksActivity));
             StartActivity(intent);
             }
         }

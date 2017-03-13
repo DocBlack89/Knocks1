@@ -29,8 +29,11 @@ public final class R {
         public static final int launch=0x7f030002;
         public static final int main1=0x7f030003;
         public static final int main2=0x7f030004;
-        public static final int menu=0x7f030005;
-        public static final int note=0x7f030006;
+        public static final int main3=0x7f030005;
+        public static final int main4=0x7f030006;
+        public static final int menu=0x7f030007;
+        public static final int note=0x7f030008;
+        public static final int note1=0x7f030009;
     }
     public static final class raw {
         public static final int carta=0x7f040000;

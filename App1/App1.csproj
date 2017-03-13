@@ -53,6 +53,10 @@
   <ItemGroup>
     <Compile Include="Game_Over.cs" />
     <Compile Include="KnocksActivity.cs" />
+    <Compile Include="Main3.cs" />
+    <Compile Include="Note2.cs" />
+    <Compile Include="Note1.cs" />
+    <Compile Include="NoteActivity2.cs" />
     <Compile Include="NoteActivity.cs" />
     <Compile Include="Main1.cs" />
     <Compile Include="ChoixActivity.cs" />
@@ -80,6 +84,15 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\game_over.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Note1.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Main3.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Main4.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

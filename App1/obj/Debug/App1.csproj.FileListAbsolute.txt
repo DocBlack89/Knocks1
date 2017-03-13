@@ -87,5 +87,8 @@ D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\o
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\note1.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\main3.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\main4.xml
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\App1.dll.mdb
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\bin\Debug\App1.dll.mdb

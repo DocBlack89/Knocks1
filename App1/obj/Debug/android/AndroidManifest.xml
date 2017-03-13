@@ -7,6 +7,10 @@
   <application android:label="Five Knocks" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="App1" android:name="md5579855c995bdb073d8182511e793544c.Game_Over" />
     <activity android:label="KnocksActivity" android:name="md5579855c995bdb073d8182511e793544c.KnocksActivity" />
+    <activity android:label="Main3" android:name="md5579855c995bdb073d8182511e793544c.Main3" />
+    <activity android:label="Note2" android:name="md5579855c995bdb073d8182511e793544c.Note2" />
+    <activity android:label="Note1" android:name="md5579855c995bdb073d8182511e793544c.Note1" />
+    <activity android:label="NoteActivity2" android:name="md5579855c995bdb073d8182511e793544c.NoteActivity2" />
     <activity android:label="NoteActivity" android:name="md5579855c995bdb073d8182511e793544c.NoteActivity" />
     <activity android:label="Activity1" android:name="md5579855c995bdb073d8182511e793544c.Main1" />
     <activity android:label="Activity1" android:name="md5579855c995bdb073d8182511e793544c.ChoixActivity" />

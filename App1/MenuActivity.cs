@@ -24,7 +24,7 @@ namespace App1
             Button button = FindViewById<Button>(Resource.Id.button1);
             button.Click += delegate
             {
-                var intent = new Intent(this, typeof(ChoixActivity));
+                var intent = new Intent(this, typeof(Main1));
                 StartActivity(intent);
             };
         }

@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
-    <SelectedDevice>lge LG-D802</SelectedDevice>
+    <SelectedDevice>Samsung SM-A510F</SelectedDevice>
     <DefaultDevice>dkvl</DefaultDevice>
   </PropertyGroup>
 </Project>

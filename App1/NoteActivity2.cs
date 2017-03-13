@@ -33,13 +33,6 @@ namespace App1
             time = new Timer(2000);
             time.Elapsed += new ElapsedEventHandler(ouvre_menu);
             time.Enabled = true;
-            Button button = FindViewById<Button>(Resource.Id.button1);
-            /*button.Click += delegate
-            {
-                var intent = new Intent(this, typeof(Main1));
-                StartActivity(intent);
-                _player.Stop();
-            };*/
         }
         static void ouvre_menu(object sender, ElapsedEventArgs e)
         {

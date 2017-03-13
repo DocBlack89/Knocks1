@@ -50,7 +50,7 @@ namespace App1
         private void PlayButton2_Click(object sender, System.EventArgs e)
         {
             _player.Start();
-            var intent = new Intent(this, typeof(Main1));
+            var intent = new Intent(this, typeof(NoteActivity2));
             StartActivity(intent);
             }
         private void PlayButton3_Click(object sender, System.EventArgs e)

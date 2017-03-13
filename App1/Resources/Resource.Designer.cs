@@ -72,17 +72,17 @@ namespace App1
 			// aapt resource value: 0x7f060001
 			public const int button1 = 2131099649;
 			
-			// aapt resource value: 0x7f060003
-			public const int button2 = 2131099651;
+			// aapt resource value: 0x7f060002
+			public const int button2 = 2131099650;
 			
-			// aapt resource value: 0x7f060004
-			public const int button3 = 2131099652;
+			// aapt resource value: 0x7f060003
+			public const int button3 = 2131099651;
 			
 			// aapt resource value: 0x7f060000
 			public const int imageView1 = 2131099648;
 			
-			// aapt resource value: 0x7f060002
-			public const int textView1 = 2131099650;
+			// aapt resource value: 0x7f060004
+			public const int textView1 = 2131099652;
 			
 			static Id()
 			{
@@ -98,34 +98,52 @@ namespace App1
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int game_over = 2130903040;
+			public const int Choix2 = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Knocks = 2130903041;
+			public const int Choix3 = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Launch = 2130903042;
+			public const int Choix4 = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int Main1 = 2130903043;
+			public const int game_over = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int Main2 = 2130903044;
+			public const int Knocks = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int Main3 = 2130903045;
+			public const int Launch = 2130903045;
 			
 			// aapt resource value: 0x7f030006
-			public const int Main4 = 2130903046;
+			public const int Main1 = 2130903046;
 			
 			// aapt resource value: 0x7f030007
-			public const int Menu = 2130903047;
+			public const int Main2 = 2130903047;
 			
 			// aapt resource value: 0x7f030008
-			public const int Note = 2130903048;
+			public const int Main3 = 2130903048;
 			
 			// aapt resource value: 0x7f030009
-			public const int Note1 = 2130903049;
+			public const int Main4 = 2130903049;
+			
+			// aapt resource value: 0x7f03000a
+			public const int Menu = 2130903050;
+			
+			// aapt resource value: 0x7f03000b
+			public const int Note = 2130903051;
+			
+			// aapt resource value: 0x7f03000c
+			public const int Note1 = 2130903052;
+			
+			// aapt resource value: 0x7f03000d
+			public const int Note2 = 2130903053;
+			
+			// aapt resource value: 0x7f03000e
+			public const int T1Main = 2130903054;
+			
+			// aapt resource value: 0x7f03000f
+			public const int T1Note = 2130903055;
 			
 			static Layout()
 			{

@@ -92,5 +92,14 @@ D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\o
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\main4.xml
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\note2.xml
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\choix2.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\t1note.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\choix3.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\t1main.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\choix4.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\t1_1main.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\choix5.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\t1_2main.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\choix6.xml
+D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\res\layout\t1_3main.xml
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\obj\Debug\App1.dll.mdb
 D:\Users\antoi\OneDrive\Documents\Visual Studio 2015\Projects\App1\Knocks\App1\bin\Debug\App1.dll.mdb

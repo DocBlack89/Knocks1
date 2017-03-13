@@ -12,8 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Vanessa regarde un film d’horreur avec Kévin. D un seul coup elle entend un bruit sourd  et quelques secondes après son ordi s’éteint tout seul.
-Vanessa se retourne et voit une note sur le bureau : elle se lève pour lire la note."
+        android:text="Vanessa regarde un film d’horreur avec Kévin. D un seul coup elle entend un bruit sourd  et quelques secondes après son ordi s’éteint tout seul. Vanessa se retourne et voit une note sur le bureau : elle se lève pour lire la note."
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

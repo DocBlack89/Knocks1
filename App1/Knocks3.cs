@@ -36,7 +36,7 @@ namespace App1
         }
         static void ouvre_menu(object sender, ElapsedEventArgs e)
         {
-            var intent = new Intent(ka, typeof(T1NoteActivity));
+            var intent = new Intent(ka, typeof(T1Main));
             Application.Context.StartActivity(intent);
             ka.time.Enabled = false;
 

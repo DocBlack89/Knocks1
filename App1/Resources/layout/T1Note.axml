@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Vanessa lit la note à Kevin : Tu es le joueur et le suis la récompense. A quel point compte-t-elle pour toi ? "
+        android:text="Difficile a trouver , difficile a garder je cesse des lors que je suis découvert  ?"
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

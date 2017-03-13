@@ -27,19 +27,24 @@ public final class R {
         public static final int choix2=0x7f030000;
         public static final int choix3=0x7f030001;
         public static final int choix4=0x7f030002;
-        public static final int game_over=0x7f030003;
-        public static final int knocks=0x7f030004;
-        public static final int launch=0x7f030005;
-        public static final int main1=0x7f030006;
-        public static final int main2=0x7f030007;
-        public static final int main3=0x7f030008;
-        public static final int main4=0x7f030009;
-        public static final int menu=0x7f03000a;
-        public static final int note=0x7f03000b;
-        public static final int note1=0x7f03000c;
-        public static final int note2=0x7f03000d;
-        public static final int t1main=0x7f03000e;
-        public static final int t1note=0x7f03000f;
+        public static final int choix5=0x7f030003;
+        public static final int choix6=0x7f030004;
+        public static final int game_over=0x7f030005;
+        public static final int knocks=0x7f030006;
+        public static final int launch=0x7f030007;
+        public static final int main1=0x7f030008;
+        public static final int main2=0x7f030009;
+        public static final int main3=0x7f03000a;
+        public static final int main4=0x7f03000b;
+        public static final int menu=0x7f03000c;
+        public static final int note=0x7f03000d;
+        public static final int note1=0x7f03000e;
+        public static final int note2=0x7f03000f;
+        public static final int t1_1main=0x7f030010;
+        public static final int t1_2main=0x7f030011;
+        public static final int t1_3main=0x7f030012;
+        public static final int t1main=0x7f030013;
+        public static final int t1note=0x7f030014;
     }
     public static final class raw {
         public static final int carta=0x7f040000;

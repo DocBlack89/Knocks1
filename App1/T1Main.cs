@@ -23,11 +23,11 @@ namespace App1
             base.OnCreate(savedInstanceState);
             _player = MediaPlayer.Create(this, Resource.Raw.Sons_ambiance);
             // Create your application here
-            SetContentView(Resource.Layout.Main1);
+            SetContentView(Resource.Layout.T1Main);
             Button button = FindViewById<Button>(Resource.Id.button1);
             button.Click += delegate
             {
-                var intent = new Intent(this, typeof(Choix4));
+                var intent = new Intent(this, typeof(Choix5));
                 StartActivity(intent);
                 _player.Stop();
             };

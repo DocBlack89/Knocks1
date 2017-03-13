@@ -12,14 +12,14 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Avoue  "
+        android:text="Elle est ce qui compte le plus pour moi"
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button1"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp" />
     <Button
-        android:text="Lui "
+        android:text="C'est une personne comme une autre "
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button2"
@@ -27,7 +27,7 @@
         android:layout_marginRight="40dp"
         android:layout_marginTop="10dp" />
     <Button
-        android:text="Ton secret"
+        android:text="Je ne sais pas..."
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button3"

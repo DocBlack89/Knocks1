@@ -13,8 +13,8 @@ using Android.Media;
 
 namespace App1
 {
-    [Activity(Label = "Choix2")]
-    public class Choix2 : Activity
+    [Activity(Label = "Choix3")]
+    public class Choix3 : Activity
     {
         MediaPlayer _player;
         MediaPlayer _player1;
@@ -50,7 +50,7 @@ namespace App1
         private void PlayButton2_Click(object sender, System.EventArgs e)
         {
             _player.Start();
-            var intent = new Intent(this, typeof(T2));
+            var intent = new Intent(this, typeof(T1Main)); //A changer
             StartActivity(intent);
             }
         private void PlayButton3_Click(object sender, System.EventArgs e)
@@ -59,7 +59,7 @@ namespace App1
             _player1.Stop();
             _player.Start();
             _player3.Start();
-            var intent = new Intent(this, typeof(T3));
+            var intent = new Intent(this, typeof(T1Main)); // A changer
             StartActivity(intent);
             }
         }

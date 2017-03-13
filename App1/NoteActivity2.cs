@@ -16,11 +16,11 @@ using System.Timers;
 
 namespace App1
 {
-    [Activity(Label = "NoteActivity")]
-    public class NoteActivity : Activity
+    [Activity(Label = "NoteActivity2")]
+    public class NoteActivity2 : Activity
     {
         Timer time;
-        static NoteActivity na;
+        static NoteActivity2 na;
         MediaPlayer _player;
         protected override void OnCreate(Bundle bundle)
         {
@@ -43,7 +43,7 @@ namespace App1
         }
         static void ouvre_menu(object sender, ElapsedEventArgs e)
         {
-            var intent = new Intent(na, typeof(Note1));
+            var intent = new Intent(na, typeof(Note2));
             Application.Context.StartActivity(intent);
             na.time.Enabled = false;
 

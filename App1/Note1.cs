@@ -13,8 +13,8 @@ using Android.Media;
 
 namespace App1
 {
-    [Activity(Label = "Activity1")]
-    public class Main1 : Activity
+    [Activity(Label = "Note1")]
+    public class Note1 : Activity
     {
         MediaPlayer _player;
 

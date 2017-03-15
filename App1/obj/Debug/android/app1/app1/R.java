@@ -46,8 +46,18 @@ public final class R {
         public static final int t1main=0x7f030013;
         public static final int t1note=0x7f030014;
         public static final int t2choix1=0x7f030015;
-        public static final int t2main=0x7f030016;
+        public static final int t2choix2=0x7f030016;
         public static final int t2main1=0x7f030017;
+        public static final int t2main2=0x7f030018;
+        public static final int t2main3=0x7f030019;
+        public static final int t2main4=0x7f03001a;
+        public static final int t2main5=0x7f03001b;
+        public static final int t3choix=0x7f03001c;
+        public static final int t3main1=0x7f03001d;
+        public static final int t3main2=0x7f03001e;
+        public static final int t3main3=0x7f03001f;
+        public static final int t3main4=0x7f030020;
+        public static final int you_win=0x7f030021;
     }
     public static final class raw {
         public static final int carta=0x7f040000;

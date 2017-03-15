@@ -45,7 +45,9 @@ public final class R {
         public static final int t1_3main=0x7f030012;
         public static final int t1main=0x7f030013;
         public static final int t1note=0x7f030014;
-        public static final int t2main=0x7f030015;
+        public static final int t2choix1=0x7f030015;
+        public static final int t2main=0x7f030016;
+        public static final int t2main1=0x7f030017;
     }
     public static final class raw {
         public static final int carta=0x7f040000;

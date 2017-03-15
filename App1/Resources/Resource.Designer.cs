@@ -161,7 +161,13 @@ namespace App1
 			public const int T1Note = 2130903060;
 			
 			// aapt resource value: 0x7f030015
-			public const int T2Main = 2130903061;
+			public const int T2Choix1 = 2130903061;
+			
+			// aapt resource value: 0x7f030016
+			public const int T2Main = 2130903062;
+			
+			// aapt resource value: 0x7f030017
+			public const int T2Main1 = 2130903063;
 			
 			static Layout()
 			{

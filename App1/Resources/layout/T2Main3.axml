@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Vanessa lui demande des explications, kévin ne répond pas et elle insiste : "
+        android:text="Lors de la dispute Kévin pousse Vanessa violemment et sa tête heurte un meuble , Kévin pris de panique ne sait pas quoi faire :"
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

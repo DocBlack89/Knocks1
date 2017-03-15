@@ -13,8 +13,8 @@ using Android.Media;
 
 namespace App1
 {
-    [Activity(Label = "Choix3")]
-    public class Choix3 : Activity
+    [Activity(Label = "T2Choix1")]
+    public class T2Choix1 : Activity
     {
         MediaPlayer _player;
         MediaPlayer _player1;
@@ -25,7 +25,7 @@ namespace App1
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            SetContentView(Resource.Layout.Choix2);
+            SetContentView(Resource.Layout.T2Choix1);
             // Create your application here
 
             _player = MediaPlayer.Create(this, Resource.Raw.Click);
@@ -44,22 +44,13 @@ namespace App1
             _player.Start();
             _player1.Stop();
             _player2.Start();
-            var intent = new Intent(this, typeof(Knocks2));
+            var intent = new Intent(this, typeof(T2Main2));
             StartActivity(intent);
                 }
         private void PlayButton2_Click(object sender, System.EventArgs e)
         {
             _player.Start();
-            var intent = new Intent(this, typeof(T1Main)); //A changer
-            StartActivity(intent);
-            }
-        private void PlayButton3_Click(object sender, System.EventArgs e)
-             {
-            _player3 = MediaPlayer.Create(this, Resource.Raw.feuille);
-            _player1.Stop();
-            _player.Start();
-            _player3.Start();
-            var intent = new Intent(this, typeof(T1Main)); // A changer
+            var intent = new Intent(this, typeof(T2Main2));
             StartActivity(intent);
             }
         }

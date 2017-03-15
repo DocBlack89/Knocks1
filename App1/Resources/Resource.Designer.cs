@@ -164,10 +164,40 @@ namespace App1
 			public const int T2Choix1 = 2130903061;
 			
 			// aapt resource value: 0x7f030016
-			public const int T2Main = 2130903062;
+			public const int T2Choix2 = 2130903062;
 			
 			// aapt resource value: 0x7f030017
 			public const int T2Main1 = 2130903063;
+			
+			// aapt resource value: 0x7f030018
+			public const int T2Main2 = 2130903064;
+			
+			// aapt resource value: 0x7f030019
+			public const int T2Main3 = 2130903065;
+			
+			// aapt resource value: 0x7f03001a
+			public const int T2Main4 = 2130903066;
+			
+			// aapt resource value: 0x7f03001b
+			public const int T2Main5 = 2130903067;
+			
+			// aapt resource value: 0x7f03001c
+			public const int T3Choix = 2130903068;
+			
+			// aapt resource value: 0x7f03001d
+			public const int T3Main1 = 2130903069;
+			
+			// aapt resource value: 0x7f03001e
+			public const int T3Main2 = 2130903070;
+			
+			// aapt resource value: 0x7f03001f
+			public const int T3Main3 = 2130903071;
+			
+			// aapt resource value: 0x7f030020
+			public const int T3Main4 = 2130903072;
+			
+			// aapt resource value: 0x7f030021
+			public const int you_win = 2130903073;
 			
 			static Layout()
 			{

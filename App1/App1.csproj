@@ -51,7 +51,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="T2Choix1.cs" />
     <Compile Include="Choix6.cs" />
     <Compile Include="Choix5.cs" />
     <Compile Include="Choix4.cs" />
@@ -61,9 +60,6 @@
     <Compile Include="Knocks3.cs" />
     <Compile Include="Knocks2.cs" />
     <Compile Include="KnocksActivity.cs" />
-    <Compile Include="T2Main3.cs" />
-    <Compile Include="T2Main2.cs" />
-    <Compile Include="T2Main1.cs" />
     <Compile Include="T1_3Main.cs" />
     <Compile Include="T1_2Main.cs" />
     <Compile Include="T1_1Main.cs" />
@@ -83,9 +79,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Choix2.axml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <AndroidResource Include="Resources\layout\Main1.axml">
@@ -146,18 +139,6 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\T1_3Main.axml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout\T2Main1.axml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout\T2Choix1.axml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout\T2Main2.axml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout\T2Main3.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

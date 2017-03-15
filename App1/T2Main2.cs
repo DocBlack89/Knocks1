@@ -13,8 +13,8 @@ using Android.Media;
 
 namespace App1
 {
-    [Activity(Label = "T2Main2")]
-    public class T2Main2 : Activity
+    [Activity(Label = "T1Main")]
+    public class T1Main : Activity
     {
         MediaPlayer _player;
 
@@ -23,11 +23,11 @@ namespace App1
             base.OnCreate(savedInstanceState);
             _player = MediaPlayer.Create(this, Resource.Raw.Sons_ambiance);
             // Create your application here
-            SetContentView(Resource.Layout.T2Main2);
+            SetContentView(Resource.Layout.T1Main);
             Button button = FindViewById<Button>(Resource.Id.button1);
             button.Click += delegate
             {
-                var intent = new Intent(this, typeof(T2Main3));
+                var intent = new Intent(this, typeof(Choix5));
                 StartActivity(intent);
                 _player.Stop();
             };

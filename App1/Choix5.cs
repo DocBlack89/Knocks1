@@ -25,7 +25,7 @@ namespace App1
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            SetContentView(Resource.Layout.Choix2);
+            SetContentView(Resource.Layout.Choix5);
             // Create your application here
 
             _player = MediaPlayer.Create(this, Resource.Raw.Click);

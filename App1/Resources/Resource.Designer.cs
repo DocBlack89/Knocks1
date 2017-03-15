@@ -160,6 +160,9 @@ namespace App1
 			// aapt resource value: 0x7f030014
 			public const int T1Note = 2130903060;
 			
+			// aapt resource value: 0x7f030015
+			public const int T2Main = 2130903061;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

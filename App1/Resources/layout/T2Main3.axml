@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Vanessa lui demande des explications, kévin ne répond pas et elle insiste : "
+        android:text="L’ambulance arrive, Vanessa est conduit à l’hôpital mais tombe dans le coma et restera ainsi jusqu'à la fin de sa vie. Kévin n'aura jamais eu le temps de lui dire la vérité. Kévin se rend compte, que malgré ses erreurs, il l'aimait. Il finit en dépression. "
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

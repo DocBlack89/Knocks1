@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Difficile a trouver , difficile a garder je cesse des lors que je suis découvert  ?"
+        android:text="Veux-tu jouez un peu ? Je vais te faire une petite devinette, ne te trompe pas.. 'Difficile a trouver , difficile a garder je cesse des lors que je suis découvert  ?'"
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

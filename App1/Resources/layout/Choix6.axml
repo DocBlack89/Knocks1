@@ -12,14 +12,14 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Avouer"
+        android:text="Kévin, s'assoie sur le lit et commence à raconter ce qui le hantait depuis plus d'une semaine.  "
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button1"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp" />
     <Button
-        android:text="Ne pas avouer"
+        android:text="Kévin se lève et s'exclame : ‘Je ne sais pas qui tu es et tu n'as rien à faire ici alors vas-t'en ! ‘. L'homme lui tira une balle dans la jambe et lui dit : ‘Tu as loupé ta chance de vivre..’. Les cris de Kévin étaient trop forts et l'homme mis fin à ses jours devant les yeux écarquillés de Vanessa qui regarda la scène impuissante."
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button2"

@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Explication"
+        android:text="Il raconte l'histoire d'une soirée qui aurait mal tournée après quelques verres. Il aurait franchi le pas du non-retour mais, ne sachant pas comment en parler, il a préféré se taire et ne rien faire. Malheureusement, l'homme mystérieux commence un rire grave et s'approche de Kévin en lui susurrant à l'oreille : ‘Maintenant tu peux mourir en paix'. Kévin entendit un bruit d'arme a feu puis n'entendit plus rien."
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Lui avoué le secret"
+        android:text="Lui avouer le secret"
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button1"

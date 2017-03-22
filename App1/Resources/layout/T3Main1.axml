@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Vanessa lui demande des explications, kévin ne répond pas et elle insiste : "
+        android:text="Vanessa aimerait savoir pourquoi il ne sait pas, Kévin reste muet et impassible pendant quelques minutes. Il prend une grande respiration puis commence le récit parle d'une soirée oui il aurait juste parlé avec une fille. Suite à l’explication (fausse de Kevin) Vanessa lui propose alors de soit partir ou de lui dire la vérité :  "
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

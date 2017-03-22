@@ -56,6 +56,9 @@ namespace App1
 			// aapt resource value: 0x7f020003
 			public const int PorteJeu = 2130837507;
 			
+			// aapt resource value: 0x7f020004
+			public const int you_win = 2130837508;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -170,7 +173,7 @@ namespace App1
 			public const int T2Main1 = 2130903063;
 			
 			// aapt resource value: 0x7f030018
-			public const int T2Main2 = 2130903064;
+			public const int T2main2 = 2130903064;
 			
 			// aapt resource value: 0x7f030019
 			public const int T2Main3 = 2130903065;
@@ -179,10 +182,10 @@ namespace App1
 			public const int T2Main4 = 2130903066;
 			
 			// aapt resource value: 0x7f03001b
-			public const int T2Main5 = 2130903067;
+			public const int T3Choix = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int T3Choix = 2130903068;
+			public const int T3Choix1 = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
 			public const int T3Main1 = 2130903069;

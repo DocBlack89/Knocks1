@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="fin de l histoire Vanessa lui dit de dégager , rentre chez lui il trouve sur la porte une note qui lui dit que c ‘est un salop ( a expliquer) "
+        android:text="Vanessa lui dit de partir de chez elle maintenant et de ne plus jamais revenir. Il finit par rentrer chez lui, il trouve sur la porte une note : 'Tu as bien fait de partir, sinon le trépas t'aurait coupé dans ta vie pleine de mensonges."
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

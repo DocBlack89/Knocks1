@@ -12,25 +12,17 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Elle est ce qui compte le plus pour moi  "
+        android:text="Kévin ne veux pas s'expliquer et lui tourne le dos."
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button1"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp" />
     <Button
-        android:text="C’est une personne comme une autre "
+        android:text="Kévin commence à s'expliquer mais Vanessa ne lui laisse pas le temps de finir."
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button2"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="10dp" />
-    <Button
-        android:text="Je ne sais pas…"
-        android:layout_height="87.0dp"
-        android:layout_width="match_parent"
-        android:id="@+id/button3"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:layout_marginTop="10dp" />

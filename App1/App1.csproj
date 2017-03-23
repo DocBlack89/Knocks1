@@ -56,6 +56,7 @@
     <Compile Include="Choix4.cs" />
     <Compile Include="Choix3.cs" />
     <Compile Include="Game_Over.cs" />
+    <Compile Include="Knocks5.cs" />
     <Compile Include="Knocks4.cs" />
     <Compile Include="Knocks3.cs" />
     <Compile Include="Knocks2.cs" />
@@ -77,8 +78,21 @@
     <Compile Include="MenuActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="T2Choix1.cs" />
+    <Compile Include="T2Choix2.cs" />
+    <Compile Include="T2Main1.cs" />
+    <Compile Include="T2Main2.cs" />
+    <Compile Include="T2Main3.cs" />
+    <Compile Include="T2Main4.cs" />
+    <Compile Include="T3Choix1.cs" />
+    <Compile Include="T3Main1.cs" />
+    <Compile Include="T3Main2.cs" />
+    <Compile Include="T3Main3.cs" />
+    <Compile Include="T3Main4.cs" />
+    <Compile Include="You_Win.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App1.csproj.bak" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <AndroidResource Include="Resources\layout\Main1.axml">
@@ -141,6 +155,21 @@
     <AndroidResource Include="Resources\layout\T1_3Main.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\T2Main1.axml" />
+    <AndroidResource Include="Resources\layout\T2Main3.axml" />
+    <AndroidResource Include="Resources\layout\T2Choix1.axml" />
+    <AndroidResource Include="Resources\layout\T2Choix2.axml" />
+    <AndroidResource Include="Resources\layout\T2Main4.axml" />
+    <AndroidResource Include="Resources\layout\T3Choix.axml" />
+    <AndroidResource Include="Resources\layout\T3Main1.axml" />
+    <AndroidResource Include="Resources\layout\T3Main2.axml" />
+    <AndroidResource Include="Resources\layout\T3Main3.axml" />
+    <AndroidResource Include="Resources\layout\T3Main4.axml" />
+    <AndroidResource Include="Resources\layout\you_win.axml" />
+    <AndroidResource Include="Resources\layout\T2main2.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\T3Choix1.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main2.axml">
@@ -201,6 +230,9 @@
     <AndroidResource Include="Resources\drawable\note.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\you_win.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

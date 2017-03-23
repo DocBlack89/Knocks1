@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Vanessa lui demande des explications, kévin ne répond pas et elle insiste : "
+        android:text="Vanessa, troublée par l’évènement lui demande des explications, Kévin ne répond pas et garde la tête baissée. Elle insiste : "
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"

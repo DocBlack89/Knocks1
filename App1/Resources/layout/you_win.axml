@@ -7,9 +7,9 @@
     tools:actionBarNavMode="tabs"
     android:minWidth="25px"
     android:minHeight="25px"
-    android:background="@drawable/game_over">
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView1" />
+    android:background="@drawable/you_win">
+  <ImageView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/imageView1" />
 </LinearLayout>

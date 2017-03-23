@@ -8,10 +8,10 @@ using System.Timers;
 namespace App1
 {
     [Activity(Label = "App1")]
-    public class Game_Over : Activity
+    public class You_Win : Activity
     {
         Timer time;
-        static Game_Over ga;
+        static You_Win ga;
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -20,7 +20,7 @@ namespace App1
             ga = this;
 
             // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.game_over);
+            SetContentView(Resource.Layout.you_win);
 
             time = new Timer(5000);
             time.Elapsed += new ElapsedEventHandler(ouvre_menu);
@@ -28,7 +28,7 @@ namespace App1
         }
         static void ouvre_menu(object sender, ElapsedEventArgs e)
         {
-            var intent = new Intent(ga, typeof(MenuActivity));
+            var intent = new Intent(ga, typeof(You_Win));
             Application.Context.StartActivity(intent);
             ga.time.Enabled = false;
 

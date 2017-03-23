@@ -7,15 +7,18 @@
     tools:actionBarNavMode="tabs"
     android:minWidth="25px"
     android:minHeight="25px">
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView1" />
-    <Button
-        android:text="Vanessa lui demande des explications, kévin ne répond pas et elle insiste : "
-        android:layout_height="match_parent"
-        android:layout_width="match_parent"
-        android:id="@+id/button1"
-        android:visibility="visible"
-        tools:visibility="visible" />
+  <ImageView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/imageView1" />
+  <Button
+      android:text="Une dispute éclate entre les deux personnages. Les mots et les reproches fusent à travers la chambre de Vanessa. 
+Lors de la dispute Kévin pousse Vanessa violemment et sa tête heurte le sol violement, Kévin s'approche d'elle, elle respire mais ne bouge plus.
+Kevin ne sait pas quoi faire."
+      
+      android:layout_height="match_parent"
+      android:layout_width="match_parent"
+      android:id="@+id/button1"
+      android:visibility="visible"
+      tools:visibility="visible" />
 </LinearLayout>

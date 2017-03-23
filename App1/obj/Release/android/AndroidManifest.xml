@@ -3,8 +3,25 @@
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
   <application android:label="Five Knocks" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:label="Choix6" android:name="md5579855c995bdb073d8182511e793544c.Choix6" />
+    <activity android:label="Choix5" android:name="md5579855c995bdb073d8182511e793544c.Choix5" />
+    <activity android:label="Choix4" android:name="md5579855c995bdb073d8182511e793544c.Choix4" />
+    <activity android:label="Choix3" android:name="md5579855c995bdb073d8182511e793544c.Choix3" />
     <activity android:label="App1" android:name="md5579855c995bdb073d8182511e793544c.Game_Over" />
+    <activity android:label="Knocks4" android:name="md5579855c995bdb073d8182511e793544c.Knocks4" />
+    <activity android:label="Knocks3" android:name="md5579855c995bdb073d8182511e793544c.Knocks3" />
+    <activity android:label="Knocks2" android:name="md5579855c995bdb073d8182511e793544c.Knocks2" />
     <activity android:label="KnocksActivity" android:name="md5579855c995bdb073d8182511e793544c.KnocksActivity" />
+    <activity android:label="T1_3Main" android:name="md5579855c995bdb073d8182511e793544c.T1Main_3" />
+    <activity android:label="T1Main_2" android:name="md5579855c995bdb073d8182511e793544c.T1Main_2" />
+    <activity android:label="T1_1Main" android:name="md5579855c995bdb073d8182511e793544c.T1Main_1" />
+    <activity android:label="T1Main" android:name="md5579855c995bdb073d8182511e793544c.T1Main" />
+    <activity android:label="Main3" android:name="md5579855c995bdb073d8182511e793544c.Main3" />
+    <activity android:label="T1Note" android:name="md5579855c995bdb073d8182511e793544c.T1Note" />
+    <activity android:label="Note2" android:name="md5579855c995bdb073d8182511e793544c.Note2" />
+    <activity android:label="Note1" android:name="md5579855c995bdb073d8182511e793544c.Note1" />
+    <activity android:label="T1NoteActivity" android:name="md5579855c995bdb073d8182511e793544c.T1NoteActivity" />
+    <activity android:label="NoteActivity2" android:name="md5579855c995bdb073d8182511e793544c.NoteActivity2" />
     <activity android:label="NoteActivity" android:name="md5579855c995bdb073d8182511e793544c.NoteActivity" />
     <activity android:label="Activity1" android:name="md5579855c995bdb073d8182511e793544c.Main1" />
     <activity android:label="Activity1" android:name="md5579855c995bdb073d8182511e793544c.ChoixActivity" />

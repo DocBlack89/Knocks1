@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <TextView
-        android:text="Pendant qu’elle explique a Kevin ce qui se passe , elle voit une seconde note passé sous la porte et entend le verrou de la porte."
+        android:text="Pendant qu’elle montre la note à Kevin, elle voit une seconde note passée sous la porte et entend le grincement de la poignée qui tourne lentement."
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp" />
     <Button
-        android:text="Bloquer la porte "
+        android:text="Verrouiller la porte "
         android:layout_height="87.0dp"
         android:layout_width="match_parent"
         android:id="@+id/button1"

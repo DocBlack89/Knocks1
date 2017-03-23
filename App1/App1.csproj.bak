@@ -16,7 +16,7 @@
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v7.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -51,8 +51,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Choix6.cs" />
+    <Compile Include="Choix5.cs" />
+    <Compile Include="Choix4.cs" />
+    <Compile Include="Choix3.cs" />
     <Compile Include="Game_Over.cs" />
+    <Compile Include="Knocks4.cs" />
+    <Compile Include="Knocks3.cs" />
+    <Compile Include="Knocks2.cs" />
     <Compile Include="KnocksActivity.cs" />
+    <Compile Include="T1_3Main.cs" />
+    <Compile Include="T1_2Main.cs" />
+    <Compile Include="T1_1Main.cs" />
+    <Compile Include="T1Main.cs" />
+    <Compile Include="Main3.cs" />
+    <Compile Include="T1Note.cs" />
+    <Compile Include="Note2.cs" />
+    <Compile Include="Note1.cs" />
+    <Compile Include="T1NoteActivity.cs" />
+    <Compile Include="NoteActivity2.cs" />
     <Compile Include="NoteActivity.cs" />
     <Compile Include="Main1.cs" />
     <Compile Include="ChoixActivity.cs" />
@@ -80,6 +97,48 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\game_over.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Note1.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Main3.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Main4.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Note2.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Choix2.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\T1Note.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Choix3.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\T1Main.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Choix4.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\T1_1Main.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Choix5.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\T1_2Main.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Choix6.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\T1_3Main.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

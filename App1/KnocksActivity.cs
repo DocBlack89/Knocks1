@@ -21,12 +21,14 @@ namespace App1
     public class KnocksActivity : Activity
     {
         Timer time;
+        MediaPlayer _player;
         static KnocksActivity ka;
         
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             ka = this;
+            _player = MediaPlayer.Create(this, Resource.Raw.Porte);
             // Create your application here
             SetContentView(Resource.Layout.Knocks);
             time = new Timer(3000);

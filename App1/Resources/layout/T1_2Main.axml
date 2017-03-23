@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView1" />
     <Button
-        android:text="Le mec rentre et lui demande d'avouer "
+        android:text="Un homme rentre par force chez Vanessa et s’exclame en pointant Kévin du doigt : 'Menteur !' Cet homme mystérieux pointe son pistolet en direction de Kévin et lui propose deux choix : "
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:id="@+id/button1"
